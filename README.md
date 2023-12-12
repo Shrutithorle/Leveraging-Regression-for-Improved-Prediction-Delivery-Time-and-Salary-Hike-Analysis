@@ -3,7 +3,7 @@
 ## Advance Project -1 & 2
 
 Built a simple linear regression model by performing EDA and make necessary transformations and selected the best model using Python.
-There are two datasets - 
+There are two datasets in zip file format- 
 1. Delivery Time 
 	Objective  - Is to predict the Delivery time using Sorting time
 
