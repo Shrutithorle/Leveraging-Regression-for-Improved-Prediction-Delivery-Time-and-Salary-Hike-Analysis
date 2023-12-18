@@ -1,4 +1,4 @@
-# simple-linear-regression-model
+# Prediction with Regression
 
 ## Advance Project -1 & 2
 
