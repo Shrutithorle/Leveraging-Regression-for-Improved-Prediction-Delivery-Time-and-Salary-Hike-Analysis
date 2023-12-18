@@ -5,10 +5,10 @@ This repository contains the code for a Python project implementing a linear reg
 Built a simple linear regression model by performing EDA and make necessary transformations and selected the best model using Python.
 
 ## Key Features:
-    - Implements the linear regression algorithm using  libraries - pandas, seaborn, numpy, matplotlib.
-    - Performs data preprocessing and feature engineering.
-    - Evaluates model performance using coeffient, intercept and r square.
-    - Provides visual aids for understanding the model behavior.
+     * Implements the linear regression algorithm using  libraries - pandas, seaborn, numpy, matplotlib.
+     * Performs data preprocessing and feature engineering.
+     * Evaluates model performance using coeffient, intercept and r square.
+     * Provides visual aids for understanding the model behavior.
     
 ## There are two datasets in zip file format- 
 1. Delivery Time 
