@@ -1,4 +1,4 @@
-# Project Title: Prediction with Regression
+# Project Title: Leveraging Regression for Improved Prediction: Delivery Time and Salary Hike Analysis
 
 ## Description:
 This repository contains the code for a Python project implementing a linear regression model. The model is trained on delivery_time and Salary_data.
